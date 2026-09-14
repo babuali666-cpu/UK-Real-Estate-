@@ -1,6 +1,6 @@
 # UK Real Estate Website
 
-A professional real estate website designed for showcasing and listing properties across the United Kingdom.
+A professional real estate website designed for showcasing and listing properties across the Pakistan 
 
 ## Features
 
@@ -30,7 +30,7 @@ A professional real estate website designed for showcasing and listing propertie
 - Key features and statistics
 - 5000+ properties sold
 - 10,000+ happy clients
-- 50+ UK locations
+- 50+ Pakistan locations
 
 📧 **Contact Section**
 - Contact form for inquiries
